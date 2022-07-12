@@ -1,0 +1,11 @@
+C:\Users\tdann\School\CIS\CIS 262\Final Project\HIMYM_EpisodeGenerator\HIMYM_EpisodeGenerator\bin\Debug\HIMYM_EpisodeGenerator.exe.config
+C:\Users\tdann\School\CIS\CIS 262\Final Project\HIMYM_EpisodeGenerator\HIMYM_EpisodeGenerator\bin\Debug\HIMYM_EpisodeGenerator.exe
+C:\Users\tdann\School\CIS\CIS 262\Final Project\HIMYM_EpisodeGenerator\HIMYM_EpisodeGenerator\bin\Debug\HIMYM_EpisodeGenerator.pdb
+C:\Users\tdann\School\CIS\CIS 262\Final Project\HIMYM_EpisodeGenerator\HIMYM_EpisodeGenerator\obj\Debug\HIMYM_EpisodeGenerator.csprojAssemblyReference.cache
+C:\Users\tdann\School\CIS\CIS 262\Final Project\HIMYM_EpisodeGenerator\HIMYM_EpisodeGenerator\obj\Debug\HIMYM_EpisodeGenerator.Form1.resources
+C:\Users\tdann\School\CIS\CIS 262\Final Project\HIMYM_EpisodeGenerator\HIMYM_EpisodeGenerator\obj\Debug\HIMYM_EpisodeGenerator.Properties.Resources.resources
+C:\Users\tdann\School\CIS\CIS 262\Final Project\HIMYM_EpisodeGenerator\HIMYM_EpisodeGenerator\obj\Debug\HIMYM_EpisodeGenerator.csproj.GenerateResource.cache
+C:\Users\tdann\School\CIS\CIS 262\Final Project\HIMYM_EpisodeGenerator\HIMYM_EpisodeGenerator\obj\Debug\HIMYM_EpisodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\tdann\School\CIS\CIS 262\Final Project\HIMYM_EpisodeGenerator\HIMYM_EpisodeGenerator\obj\Debug\HIMYM_EpisodeGenerator.exe
+C:\Users\tdann\School\CIS\CIS 262\Final Project\HIMYM_EpisodeGenerator\HIMYM_EpisodeGenerator\obj\Debug\HIMYM_EpisodeGenerator.pdb
+C:\Users\tdann\School\CIS\CIS 262\Final Project\HIMYM_EpisodeGenerator\HIMYM_EpisodeGenerator\obj\Debug\HIMYM_EpisodeGenerator.resultForm.resources
